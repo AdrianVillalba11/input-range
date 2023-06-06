@@ -1,0 +1,15 @@
+.primer-contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.porcentaje {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+     height: 30px;
+    width: 160px;
+}
