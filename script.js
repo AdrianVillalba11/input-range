@@ -1,9 +1,9 @@
 
-    const rango = document.querySelector("#rango")
-    const texto = document.querySelector("#texto")
+    const range = document.querySelector("#range-bar")
+    const text = document.querySelector("#value-text")
 
-    rango.oninput = () => {
-        texto.innerHTML = rango.value
+    range.oninput = () => {
+        text.innerHTML = range.value
     }
 
 
